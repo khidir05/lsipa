@@ -1385,6 +1385,7 @@ section {
 .onfocus .video-play {
   min-height: 800px;
   background:  url("../img/brosur1.jpg") center center;
+  width: 80%;
   background-size: cover;
 }
 
